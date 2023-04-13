@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1300px;
+}
+
+header{
+    background-color: rgb(20, 20, 20);
+}
+
+header h2{
+    color: rgb(241, 241, 238);
+    margin-right: 25rem;
+}
+
+header img{
+    width: 130px;
+    height: 110px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list a{
+    text-decoration: none;
+    color: rgb(241, 241, 238);
+    margin-left: 1em;
+    
+}
+
+a:hover{
+    color: rgb(160, 159, 159);
+}
+
+
+body{
+    background-color: rgb(39, 37, 37);
+    font-family: 'Cinzel', serif;
+    font-size: 13px;
+    color: rgb(241, 241, 238);
+
+}
+
+#primera-seccion{
+    padding-top: 2rem;
+}
+
+#primer-seccion h2{
+    padding-bottom: 2em;
+}
+
+#primera-seccion img{
+    width: 400px;
+    height: 500px;
+}
+
+#primera-seccion p{
+    width: 500px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#biografia-seccion{
+    padding-top: 2em;
+}
+
+#biografia-seccion img{
+    width: 300px;
+    height: 400px;
+
+}
+
+#biografia-seccion h2{
+    font-size: 28px;
+    padding-bottom: 1em;
+}
+
+#biografia-seccion p{
+    font-size: 22px;
+    padding-top: 1em;
+}
+
+#biografia-seccion-dos{
+    padding-top: 2em;
+}
+
+#biografia-seccion-dos img{
+    width: 400px;
+    height: 300px;
+}
+
+#biografia-seccion-dos p{
+    font-size: 22px;
+    padding-left: 1em;
+}
+
+#biografia-seccion-tres{
+    padding-top: 2em;
+}
+
+#biografia-seccion-tres p{
+    font-size: 22px;
+    padding-top: 1em;
+}
+
+#biografia-seccion-tres img{
+    width: 400px;
+    height: 300px;
+}
+
+#trayectoria-uno{
+    padding-top: 1em;
+    
+   
+}
+
+#trayectoria-uno img{
+    width: 530px;
+    height: 290px;
+}
+
+#trayectoria-uno p{
+    padding-bottom: 1em;
+    font-size: 18px;
+    color: rgb(161, 82, 82);
+    
+}
+
+#trayectoria-uno #cavspng{
+    width: 100px;
+    height: 50px;
+}
+
+#trayectoria-dos{
+    padding-top: 4em;
+}
+
+#trayectoria-dos p{
+    padding-bottom: 1em;
+    font-size: 18px;
+    color: rgb(255, 0, 0);
+}
+
+#trayectoria-dos img{
+    width: 530px;
+    height: 300px;
+}           
+
+#trayectoria-dos #heatpng{
+    width: 100px;
+    height: 100px;
+}
+
+#trayectoria-tres{
+    padding-top: 4em;
+}
+
+#trayectoria-tres p{
+    padding-bottom: 1em;
+    font-size: 18px;
+    color: rgb(224, 224, 47);
+}
+
+#trayectoria-tres img{
+    width: 530px;
+    height: 300px;
+}
+
+#trayectoria-tres #cavsnewpng{
+    width: 80px;
+    height: 90px;
+}
+
+#trayectoria-cuatro{
+    padding-top: 4em;
+}
+
+#trayectoria-cuatro img{
+    width: 530px;
+    height: 300px;
+}
+
+#trayectoria-cuatro p{
+    padding-bottom: 1em;
+    font-size: 18px;
+    color: rgb(184, 11, 184);
+}
+
+#trayectoria-cuatro #LApng{
+    width: 110px;
+    height: 70px;
+}
+
+#totales{
+    padding-top: 4em;
+}
+
+#totales p{
+    font-size: 18px;
+}
+
+#merch-uno{
+    padding-top: 3em;
+}
+
+#merch-uno img{
+    width: 400px;
+    height: 400px;
+
+
+}
+
+#merch-uno p{
+    padding-left: 7em;
+    font-size: 17px;
+}
+
+#pie{
+    background-color: rgb(20, 20, 20);
+    margin-top: 2em;
+    display: flex;
+    height: 30px;
+    padding-top: 0.8em;
+    
+}
+
+#pie a{
+    padding-left: 3em;
+}
+
+#pie #piecopy{
+    padding-left: 70em;
+
+}
