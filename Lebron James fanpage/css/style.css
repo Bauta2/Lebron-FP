@@ -10,8 +10,13 @@
     max-width: 1300px;
 }
 
+
 header{
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(20, 18, 18);
+}
+
+.menu a{
+    color: rgb(241, 241, 238);
 }
 
 header h2{
