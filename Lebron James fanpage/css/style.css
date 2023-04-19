@@ -10,6 +10,9 @@
     max-width: 1300px;
 }
 
+h1{
+    font-size: 24px;
+}
 
 header{
     background-color: rgb(20, 18, 18);
@@ -27,6 +30,14 @@ header h2{
 header img{
     width: 130px;
     height: 110px;
+}
+
+.container{
+    padding-top: 2em;
+}
+
+.container h2{
+    font-size: 20px;
 }
 
 .flex-container{
